@@ -7,10 +7,10 @@
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "38f9ee5f8ccf11923e9d94723863e1490ea776a2",
+      "rev": "2b8a673897668d6368819a83f24418cbd3fedb2b",
       "name": "HexDeterminant",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "38f9ee5f8ccf11923e9d94723863e1490ea776a2",
+      "inputRev": "2b8a673897668d6368819a83f24418cbd3fedb2b",
       "inherited": false,
       "configFile": "lakefile.toml"
     },
@@ -31,10 +31,10 @@
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "eaaf4bf8982890184f109efa78bb8a650b1fb835",
+      "rev": "3de422434b4565933a0315338e714f303bb6442f",
       "name": "HexMatrix",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "eaaf4bf8982890184f109efa78bb8a650b1fb835",
+      "inputRev": "3de422434b4565933a0315338e714f303bb6442f",
       "inherited": true,
       "configFile": "lakefile.toml"
     }
